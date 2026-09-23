@@ -7,7 +7,7 @@ Proyek Machine Learning untuk memprediksi pelanggan yang berpotensi *churn* (ber
 ## 📌 Unduh Dataset
 > **Wajib:** Sebelum menjalankan proyek ini, Anda harus mengunduh dataset terlebih dahulu.
 
-1. Unduh dataset di [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?utm_source=gemini).
+1. Unduh dataset didalam github.
 2. Simpan file CSV di folder utama proyek ini.
 
 ---
@@ -16,7 +16,7 @@ Proyek Machine Learning untuk memprediksi pelanggan yang berpotensi *churn* (ber
 
 ### 1. Clone & Install Dependensi
 ```bash
-git clone https://github.com/username-anda/telco-churn-prediction.git
+git clone (https://github.com/yahyaabdulloh28/project_churntelco.git)
 cd telco-churn-prediction
 pip install -r requirements.txt
 ```
